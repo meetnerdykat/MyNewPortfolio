@@ -140,6 +140,10 @@ a {
   color: #fff;
   text-decoration: none; }
 
+a:hover {
+  color: #afff8f;
+  text-decoration: none; }
+
 header {
   position: fixed;
   z-index: 2;
@@ -232,7 +236,7 @@ main#contact .boxes-contact-info {
   margin-bottom: 0.3rem; }
   .btn:hover, .btn-dark:hover, .btn-light:hover {
     background: #afff8f;
-    color: #fff; }
+    color: #430c96; }
 
 .btn-dark {
   background: #190438; }
